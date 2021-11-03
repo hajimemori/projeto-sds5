@@ -1,4 +1,4 @@
-package com.devsuperior.dsvendas.controllersS;
+package com.devsuperior.dsvendas.controllers;
 
 import java.util.List;
 
