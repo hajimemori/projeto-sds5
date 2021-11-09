@@ -3,7 +3,7 @@
 Este projeto foi desenvolvido durante a semana Spring React 5 e consiste em uma aplicação desenvolvida com Spring, PostgreSQL, React, Bootstrap. A aplicação foi hospedada no Netlify (o frontend) e no Heroku (o backend).
 A aplicação relativo a um Dashboard de vendas, exibe gráficos com taxa de sucesso de cada um dos vendedores, a quantidade de vendas por vendedor e ainda uma tabela com todas as vendas. Os dados do gráfico e da tabela fornecidas pelo banco de dados.
 
-https://dsvendas-hajime.netlify.app/dashboard
+https://dsvendas-hajime.netlify.app/
 
 ## Frontend
 
